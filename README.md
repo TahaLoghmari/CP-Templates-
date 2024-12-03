@@ -6,3 +6,7 @@
 - dynamic segment tree 
 - dsu 
 - combinatorics
+- trie 
+- belman ford 
+- dijkastra 
+- floyd warshall 
