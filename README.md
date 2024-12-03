@@ -10,3 +10,5 @@
 - belman ford 
 - dijkastra 
 - floyd warshall 
+## How to use 
+- you will need to copy and paste it 
