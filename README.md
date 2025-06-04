@@ -1,6 +1,4 @@
-# Description 
-- Whenever I do a new cp template for a data structure or an algorithm I will post it here 
-## templates 
+## Templates 
 - segment tree 
 - persistent segment tree 
 - dynamic segment tree 
@@ -9,6 +7,5 @@
 - trie 
 - belman ford 
 - dijkastra 
-- floyd warshall 
-## How to use 
-- you will need to copy and paste it 
+- floyd warshall
+- Hashing 
